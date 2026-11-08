@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Faithful to vanilla, yet a complete overhaul!",
+      "modules" : [
+         {
+            "type" : "resources",
+            "uuid" : "9c9b0003-381d-48f1-b4d9-c3fb023c3680",
+            "version" : "1.0.0"
+         }
+      ],
+      "name" : "Faithless",
+      "pack_id" : "4149c8bf-ae5c-4b0f-855d-d17cccfc0b13",
+      "packs_version" : "1.0.0",
+      "uuid" : "4149c8bf-ae5c-4b0f-855d-d17cccfc0b13",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "9c9b0003-381d-48f1-b4d9-c3fb023c3680",
+         "version" : "1.0.0"
+      }
+   ]
+}

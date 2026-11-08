@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Minecraft with the style of the trailers.",
+      "modules" : [
+         {
+            "type" : "resources",
+            "uuid" : "79b136d2-c942-4621-aaca-0f24d092de79",
+            "version" : "1.0.0"
+         }
+      ],
+      "name" : "Bare Bones",
+      "pack_id" : "ec3d049f-3830-4681-89d4-6358cfb33202",
+      "packs_version" : "1.0.0",
+      "uuid" : "ec3d049f-3830-4681-89d4-6358cfb33202",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "79b136d2-c942-4621-aaca-0f24d092de79",
+         "version" : "1.0.0"
+      }
+   ]
+}

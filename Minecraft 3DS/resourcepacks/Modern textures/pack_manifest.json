@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "The modern look of minecraft's textures.",
+      "modules" : [
+         {
+            "type" : "resources",
+            "uuid" : "52bace68-a7cb-447d-98b7-e86122f6311e",
+            "version" : "1.0.0"
+         }
+      ],
+      "name" : "Texture Update",
+      "pack_id" : "3f0abb94-4e27-4aaa-9964-89ee4c7bbbdd",
+      "packs_version" : "1.0.0",
+      "uuid" : "3f0abb94-4e27-4aaa-9964-89ee4c7bbbdd",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "52bace68-a7cb-447d-98b7-e86122f6311e",
+         "version" : "1.0.0"
+      }
+   ]
+}

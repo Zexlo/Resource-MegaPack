@@ -1,0 +1,830 @@
+{
+  "resource_pack_name": "barebones pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "melon": {
+      "textures": "textures/items/melon"
+    },
+    "hoe": {
+      "textures": [
+        "textures/items/wood_hoe",
+        "textures/items/stone_hoe",
+        "textures/items/iron_hoe",
+        "textures/items/gold_hoe",
+        "textures/items/diamond_hoe"
+      ]
+    },
+    "ender_eye": {
+      "textures": "textures/items/ender_eye"
+    },
+    "cooked_salmon": {
+      "textures": "textures/items/fish_salmon_cooked"
+    },
+    "minecart_normal": {
+      "textures": "textures/items/minecart_normal"
+    },
+    "record_11": {
+      "textures": "textures/items/record_11"
+    },
+    "beetroot": {
+      "textures": "textures/items/beetroot"
+    },
+    "potato_baked": {
+      "textures": "textures/items/potato_baked"
+    },
+    "gold_horse_armor": {
+      "textures": "textures/items/gold_horse_armor"
+    },
+    "sword": {
+      "textures": [
+        "textures/items/wood_sword",
+        "textures/items/stone_sword",
+        "textures/items/iron_sword",
+        "textures/items/gold_sword",
+        "textures/items/diamond_sword"
+      ]
+    },
+    "clownfish": {
+      "textures": "textures/items/fish_clownfish_raw"
+    },
+    "coal": {
+      "textures": "textures/items/coal"
+    },
+    "arrow": {
+      "textures": "textures/items/arrow"
+    },
+    "rabbit_foot": {
+      "textures": "textures/items/rabbit_foot"
+    },
+    "fireworks_charge_overlay": {
+      "textures": "textures/items/fireworks_charge_overlay"
+    },
+    "shears": {
+      "textures": "textures/items/shears"
+    },
+    "bone": {
+      "textures": "textures/items/bone"
+    },
+    "seeds_pumpkin": {
+      "textures": "textures/items/seeds_pumpkin"
+    },
+    "stick": {
+      "textures": "textures/items/stick"
+    },
+    "spider_eye": {
+      "textures": "textures/items/spider_eye"
+    },
+    "diamond_horse_armor": {
+      "textures": "textures/items/diamond_horse_armor"
+    },
+    "carrot": {
+      "textures": "textures/items/carrot"
+    },
+    "feather": {
+      "textures": "textures/items/feather"
+    },
+    "saddle": {
+      "textures": "textures/items/saddle"
+    },
+    "carrot_on_a_stick": {
+      "textures": "textures/items/carrot_on_a_stick"
+    },
+    "painting": {
+      "textures": "textures/items/painting"
+    },
+    "axe": {
+      "textures": [
+        "textures/items/wood_axe",
+        "textures/items/stone_axe",
+        "textures/items/iron_axe",
+        "textures/items/gold_axe",
+        "textures/items/diamond_axe"
+      ]
+    },
+    "comparator": {
+      "textures": "textures/items/comparator"
+    },
+    "prismarine_shard": {
+      "textures": "textures/items/prismarine_shard"
+    },
+    "dark_oak_door": {
+      "textures": "textures/items/door_dark_oak"
+    },
+    "camera": {
+      "textures": "textures/items/camera"
+    },
+    "fireball": {
+      "textures": "textures/items/fireball"
+    },
+    "blaze_rod": {
+      "textures": "textures/items/blaze_rod"
+    },
+    "redstone_dust": {
+      "textures": "textures/items/redstone_dust"
+    },
+    "cookie": {
+      "textures": "textures/items/cookie"
+    },
+    "wheat": {
+      "textures": "textures/items/wheat"
+    },
+    "empty_armor_slot_boots": {
+      "textures": "textures/items/empty_armor_slot_boots"
+    },
+    "empty_armor_slot_shield": {
+      "textures": "textures/items/empty_armor_slot_shield"
+    },
+    "carrot_golden": {
+      "textures": "textures/items/carrot_golden"
+    },
+    "book_writable": {
+      "textures": "textures/items/book_writable"
+    },
+    "iron_door": {
+      "textures": "textures/items/door_iron"
+    },
+    "elytra": {
+      "textures": [
+        "textures/items/elytra",
+        "textures/items/broken_elytra"
+      ]
+    },
+    "porkchop_raw": {
+      "textures": "textures/items/porkchop_raw"
+    },
+    "egg": {
+      "textures": "textures/items/egg"
+    },
+    "glowstone_dust": {
+      "textures": "textures/items/glowstone_dust"
+    },
+    "flower_pot": {
+      "textures": "textures/items/flower_pot"
+    },
+    "string": {
+      "textures": "textures/items/string"
+    },
+    "ender_pearl": {
+      "textures": "textures/items/ender_pearl"
+    },
+    "shovel": {
+      "textures": [
+        "textures/items/wood_shovel",
+        "textures/items/stone_shovel",
+        "textures/items/iron_shovel",
+        "textures/items/gold_shovel",
+        "textures/items/diamond_shovel"
+      ]
+    },
+    "porkchop_cooked": {
+      "textures": "textures/items/porkchop_cooked"
+    },
+    "wooden_door": {
+      "textures": "textures/items/door_wood"
+    },
+    "cake": {
+      "textures": "textures/items/cake"
+    },
+    "bread": {
+      "textures": "textures/items/bread"
+    },
+    "record_mall": {
+      "textures": "textures/items/record_mall"
+    },
+    "pickaxe": {
+      "textures": [
+        "textures/items/wood_pickaxe",
+        "textures/items/stone_pickaxe",
+        "textures/items/iron_pickaxe",
+        "textures/items/gold_pickaxe",
+        "textures/items/diamond_pickaxe"
+      ]
+    },
+    "iron_horse_armor": {
+      "textures": "textures/items/iron_horse_armor"
+    },
+    "skull_steve": {
+      "textures": "textures/items/skull_steve"
+    },
+    "spruce_door": {
+      "textures": "textures/items/door_spruce"
+    },
+    "skull_skeleton": {
+      "textures": "textures/items/skull_skeleton"
+    },
+    "experience_bottle": {
+      "textures": "textures/items/experience_bottle"
+    },
+    "potion_bottle_drinkable": {
+      "textures": [
+        "textures/items/potion_bottle_drinkable",
+        "textures/items/potion_bottle_moveSpeed",
+        "textures/items/potion_bottle_moveSlowdown",
+        "textures/items/potion_bottle_digSpeed",
+        "textures/items/potion_bottle_digSlowdown",
+        "textures/items/potion_bottle_damageBoost",
+        "textures/items/potion_bottle_heal",
+        "textures/items/potion_bottle_harm",
+        "textures/items/potion_bottle_jump",
+        "textures/items/potion_bottle_confusion",
+        "textures/items/potion_bottle_regeneration",
+        "textures/items/potion_bottle_resistance",
+        "textures/items/potion_bottle_fireResistance",
+        "textures/items/potion_bottle_waterBreathing",
+        "textures/items/potion_bottle_invisibility",
+        "textures/items/potion_bottle_blindness",
+        "textures/items/potion_bottle_nightVision",
+        "textures/items/potion_bottle_hunger",
+        "textures/items/potion_bottle_weakness",
+        "textures/items/potion_bottle_poison",
+        "textures/items/potion_bottle_wither",
+        "textures/items/potion_bottle_healthBoost",
+        "textures/items/potion_bottle_absorption",
+        "textures/items/potion_bottle_heal",
+        "textures/items/potion_bottle_levitation"
+      ]
+    },
+    "record_ward": {
+      "textures": "textures/items/record_ward"
+    },
+    "record_strad": {
+      "textures": "textures/items/record_strad"
+    },
+    "flint_and_steel": {
+      "textures": "textures/items/flint_and_steel"
+    },
+    "charcoal": {
+      "textures": "textures/items/charcoal"
+    },
+    "minecart_tnt": {
+      "textures": "textures/items/minecart_tnt"
+    },
+    "totem": {
+      "textures": "textures/items/totem"
+    },
+    "nether_wart": {
+      "textures": "textures/items/nether_wart"
+    },
+    "beef_cooked": {
+      "textures": "textures/items/beef_cooked"
+    },
+    "record_13": {
+      "textures": "textures/items/record_13"
+    },
+    "fish": {
+      "textures": "textures/items/fish_raw"
+    },
+    "birch_door": {
+      "textures": "textures/items/door_birch"
+    },
+    "fireworks": {
+      "textures": "textures/items/fireworks"
+    },
+    "rabbit_cooked": {
+      "textures": "textures/items/rabbit_cooked"
+    },
+    "chalkboard": {
+      "textures": [
+        "textures/items/chalkboard_small",
+        "textures/items/chalkboard_medium",
+        "textures/items/chalkboard_large"
+      ]
+    },
+    "rotten_flesh": {
+      "textures": "textures/items/rotten_flesh"
+    },
+    "dragon_breath": {
+      "textures": "textures/items/dragons_breath"
+    },
+    "pufferfish": {
+      "textures": "textures/items/fish_pufferfish_raw"
+    },
+    "boat": {
+      "textures": [
+        "textures/items/boat_oak",
+        "textures/items/boat_spruce",
+        "textures/items/boat_birch",
+        "textures/items/boat_jungle",
+        "textures/items/boat_acacia",
+        "textures/items/boat_darkoak"
+      ]
+    },
+    "mutton_raw": {
+      "textures": "textures/items/mutton_raw"
+    },
+    "skull_creeper": {
+      "textures": "textures/items/skull_creeper"
+    },
+    "bow_pulling": {
+      "textures": [
+        "textures/items/bow_pulling_0",
+        "textures/items/bow_pulling_1",
+        "textures/items/bow_pulling_2"
+      ]
+    },
+    "clay_ball": {
+      "textures": "textures/items/clay_ball"
+    },
+    "record_far": {
+      "textures": "textures/items/record_far"
+    },
+    "name_tag": {
+      "textures": "textures/items/name_tag"
+    },
+    "ghast_tear": {
+      "textures": "textures/items/ghast_tear"
+    },
+    "beetroot_soup": {
+      "textures": "textures/items/beetroot_soup"
+    },
+    "compass_item": {
+      "textures": "textures/items/compass_item"
+    },
+    "boots": {
+      "textures": [
+        "textures/items/leather_boots",
+        "textures/items/chainmail_boots",
+        "textures/items/iron_boots",
+        "textures/items/gold_boots",
+        "textures/items/diamond_boots"
+      ]
+    },
+    "fireworks_charge": {
+      "textures": "textures/items/fireworks_charge"
+    },
+    "map_empty": {
+      "textures": "textures/items/map_empty"
+    },
+    "netherbrick": {
+      "textures": "textures/items/netherbrick"
+    },
+    "book_normal": {
+      "textures": "textures/items/book_normal"
+    },
+    "record_stal": {
+      "textures": "textures/items/record_stal"
+    },
+    "nether_star": {
+      "textures": "textures/items/nether_star"
+    },
+    "bowl": {
+      "textures": "textures/items/bowl"
+    },
+    "potato_poisonous": {
+      "textures": "textures/items/potato_poisonous"
+    },
+    "bow_standby": {
+      "textures": "textures/items/bow_standby"
+    },
+    "potion_bottle_empty": {
+      "textures": "textures/items/potion_bottle_empty"
+    },
+    "pumpkin_pie": {
+      "textures": "textures/items/pumpkin_pie"
+    },
+    "skull_dragon": {
+      "textures": "textures/items/skull_dragon"
+    },
+    "shulker_shell": {
+      "textures": "textures/items/shulker_shell"
+    },
+    "apple": {
+      "textures": "textures/items/apple"
+    },
+    "empty_armor_slot_chestplate": {
+      "textures": "textures/items/empty_armor_slot_chestplate"
+    },
+    "repeater": {
+      "textures": "textures/items/repeater"
+    },
+    "gold_nugget": {
+      "textures": "textures/items/gold_nugget"
+    },
+    "potion_overlay": {
+      "textures": "textures/items/potion_overlay"
+    },
+    "book_enchanted": {
+      "textures": "textures/items/book_enchanted"
+    },
+    "lead": {
+      "textures": "textures/items/lead"
+    },
+    "gunpowder": {
+      "textures": "textures/items/gunpowder"
+    },
+    "spawn_egg": {
+      "textures": [
+        "textures/items/egg_chicken",
+        "textures/items/egg_cow",
+        "textures/items/egg_pig",
+        "textures/items/egg_sheep",
+        "textures/items/egg_wolf",
+        "textures/items/egg_mushroomcow",
+        "textures/items/egg_creeper",
+        "textures/items/egg_enderman",
+        "textures/items/egg_silverfish",
+        "textures/items/egg_skeleton",
+        "textures/items/egg_slime",
+        "textures/items/egg_spider",
+        "textures/items/egg_zombie",
+        "textures/items/egg_pigzombie",
+        "textures/items/egg_villager",
+        "textures/items/egg_squid",
+        "textures/items/egg_ocelot",
+        "textures/items/egg_witch",
+        "textures/items/egg_bat",
+        "textures/items/egg_ghast",
+        "textures/items/egg_lava_slime",
+        "textures/items/egg_blaze",
+        "textures/items/egg_cave_spider",
+        "textures/items/egg_horse",
+        "textures/items/egg_rabbit",
+        "textures/items/egg_endermite",
+        "textures/items/egg_guardian",
+        "textures/items/egg_stray",
+        "textures/items/egg_husk",
+        "textures/items/egg_wither",
+        "textures/items/egg_donkey",
+        "textures/items/egg_mule",
+        "textures/items/egg_skeletonhorse",
+        "textures/items/egg_zombiehorse",
+        "textures/items/egg_shulker",
+        "textures/items/egg_npc",
+        "textures/items/egg_elderguardian",
+        "textures/items/egg_polarbear",
+        "textures/items/egg_llama",
+        "textures/items/egg_vindicator",
+        "textures/items/egg_evoker",
+        "textures/items/egg_vex",
+        "textures/items/egg_null"
+      ]
+    },
+    "potion_bottle_splash": {
+      "textures": [
+        "textures/items/potion_bottle_splash",
+        "textures/items/potion_bottle_splash_moveSpeed",
+        "textures/items/potion_bottle_splash_moveSlowdown",
+        "textures/items/potion_bottle_splash_digSpeed",
+        "textures/items/potion_bottle_splash_digSlowdown",
+        "textures/items/potion_bottle_splash_damageBoost",
+        "textures/items/potion_bottle_splash_heal",
+        "textures/items/potion_bottle_splash_harm",
+        "textures/items/potion_bottle_levitation",
+        "textures/items/potion_bottle_splash_confusion",
+        "textures/items/potion_bottle_splash_regeneration",
+        "textures/items/potion_bottle_splash_resistance",
+        "textures/items/potion_bottle_splash_fireResistance",
+        "textures/items/potion_bottle_splash_waterBreathing",
+        "textures/items/potion_bottle_splash_invisibility",
+        "textures/items/potion_bottle_splash_blindness",
+        "textures/items/potion_bottle_splash_nightVision",
+        "textures/items/potion_bottle_splash_hunger",
+        "textures/items/potion_bottle_splash_weakness",
+        "textures/items/potion_bottle_splash_poison",
+        "textures/items/potion_bottle_splash_wither",
+        "textures/items/potion_bottle_splash_healthBoost",
+        "textures/items/potion_bottle_splash_absorption",
+        "textures/items/potion_bottle_splash_heal",
+        "textures/items/potion_bottle_splash"
+      ]
+    },
+    "minecart_chest": {
+      "textures": "textures/items/minecart_chest"
+    },
+    "gold_ingot": {
+      "textures": "textures/items/gold_ingot"
+    },
+    "bed": {
+      "textures": [
+        "textures/items/bed_white",
+        "textures/items/bed_orange",
+        "textures/items/bed_magenta",
+        "textures/items/bed_light_blue",
+        "textures/items/bed_yellow",
+        "textures/items/bed_lime",
+        "textures/items/bed_pink",
+        "textures/items/bed_gray",
+        "textures/items/bed_silver",
+        "textures/items/bed_cyan",
+        "textures/items/bed_purple",
+        "textures/items/bed_blue",
+        "textures/items/bed_brown",
+        "textures/items/bed_green",
+        "textures/items/bed_red",
+        "textures/items/bed_black"
+      ]
+    },
+    "rabbit_stew": {
+      "textures": "textures/items/rabbit_stew"
+    },
+    "record_blocks": {
+      "textures": "textures/items/record_blocks"
+    },
+    "chorus_fruit_popped": {
+      "textures": "textures/items/chorus_fruit_popped"
+    },
+    "snowball": {
+      "textures": "textures/items/snowball"
+    },
+    "empty_armor_slot_leggings": {
+      "textures": "textures/items/empty_armor_slot_leggings"
+    },
+    "empty_armor_slot_helmet": {
+      "textures": "textures/items/empty_armor_slot_helmet"
+    },
+    "diamond": {
+      "textures": "textures/items/diamond"
+    },
+    "map_filled": {
+      "textures": [
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_monument",
+        "textures/items/map_mansion"
+      ]
+    },
+    "bucket": {
+      "textures": [
+        "textures/items/bucket_empty",
+        "textures/items/bucket_milk",
+        "textures/items/bucket_water",
+        "textures/items/bucket_lava"
+      ]
+    },
+    "chicken_cooked": {
+      "textures": "textures/items/chicken_cooked"
+    },
+    "minecart_command_block": {
+      "textures": "textures/items/minecart_command_block"
+    },
+    "end_crystal": {
+      "textures": "textures/items/end_crystal"
+    },
+    "paper": {
+      "textures": "textures/items/paper"
+    },
+    "chicken_raw": {
+      "textures": "textures/items/chicken_raw"
+    },
+    "quartz": {
+      "textures": "textures/items/quartz"
+    },
+    "record_chirp": {
+      "textures": "textures/items/record_chirp"
+    },
+    "brewing_stand": {
+      "textures": "textures/items/brewing_stand"
+    },
+    "mutton_cooked": {
+      "textures": "textures/items/mutton_cooked"
+    },
+    "quiver": {
+      "textures": "textures/items/quiver"
+    },
+    "mushroom_stew": {
+      "textures": "textures/items/mushroom_stew"
+    },
+    "seeds_beetroot": {
+      "textures": "textures/items/seeds_beetroot"
+    },
+    "seeds_wheat": {
+      "textures": "textures/items/seeds_wheat"
+    },
+    "salmon": {
+      "textures": "textures/items/fish_salmon_raw"
+    },
+    "helmet": {
+      "textures": [
+        "textures/items/leather_helmet",
+        "textures/items/chainmail_helmet",
+        "textures/items/iron_helmet",
+        "textures/items/gold_helmet",
+        "textures/items/diamond_helmet"
+      ]
+    },
+    "slimeball": {
+      "textures": "textures/items/slimeball"
+    },
+    "seeds_melon": {
+      "textures": "textures/items/seeds_melon"
+    },
+    "rabbit_hide": {
+      "textures": "textures/items/rabbit_hide"
+    },
+    "leather": {
+      "textures": "textures/items/leather"
+    },
+    "book_written": {
+      "textures": "textures/items/book_written"
+    },
+    "chestplate": {
+      "textures": [
+        "textures/items/leather_chestplate",
+        "textures/items/chainmail_chestplate",
+        "textures/items/iron_chestplate",
+        "textures/items/gold_chestplate",
+        "textures/items/diamond_chestplate"
+      ]
+    },
+    "prismarine_crystals": {
+      "textures": "textures/items/prismarine_crystals"
+    },
+    "record_mellohi": {
+      "textures": "textures/items/record_mellohi"
+    },
+    "cauldron": {
+      "textures": "textures/items/cauldron"
+    },
+    "rabbit": {
+      "textures": "textures/items/rabbit_raw"
+    },
+    "book_portfolio": {
+      "textures": "textures/items/book_portfolio"
+    },
+    "lever": {
+      "textures": "textures/items/lever"
+    },
+    "skull_wither": {
+      "textures": "textures/items/skull_wither"
+    },
+    "sugar": {
+      "textures": "textures/items/sugar"
+    },
+    "potion_bottle_lingering": {
+      "textures": [
+        "textures/items/potion_bottle_lingering",
+        "textures/items/potion_bottle_lingering_moveSpeed",
+        "textures/items/potion_bottle_lingering_moveSlowdown",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_damageBoost",
+        "textures/items/potion_bottle_lingering_heal",
+        "textures/items/potion_bottle_lingering_harm",
+        "textures/items/potion_bottle_lingering_jump",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_regeneration",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_fireResistance",
+        "textures/items/potion_bottle_lingering_waterBreathing",
+        "textures/items/potion_bottle_lingering_invisibility",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_nightVision",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_weakness",
+        "textures/items/potion_bottle_lingering_poison",
+        "textures/items/potion_bottle_lingering_wither",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_empty",
+        "textures/items/potion_bottle_lingering_empty"
+      ]
+    },
+    "item_frame": {
+      "textures": "textures/items/item_frame"
+    },
+    "hopper": {
+      "textures": "textures/items/hopper"
+    },
+    "emerald": {
+      "textures": "textures/items/emerald"
+    },
+    "melon_speckled": {
+      "textures": "textures/items/melon_speckled"
+    },
+    "chorus_fruit": {
+      "textures": "textures/items/chorus_fruit"
+    },
+    "sign": {
+      "textures": "textures/items/sign"
+    },
+    "iron_nugget": {
+      "textures": "textures/items/iron_nugget"
+    },
+    "beef_raw": {
+      "textures": "textures/items/beef_raw"
+    },
+    "minecart_hopper": {
+      "textures": "textures/items/minecart_hopper"
+    },
+    "brick": {
+      "textures": "textures/items/brick"
+    },
+    "tipped_arrow": {
+      "textures": [
+        "textures/items/tipped_arrow_waterbreathing",
+        "textures/items/tipped_arrow_swift",
+        "textures/items/tipped_arrow_slow",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow_strength",
+        "textures/items/tipped_arrow_healing",
+        "textures/items/tipped_arrow_harm",
+        "textures/items/tipped_arrow_leaping",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow_regen",
+        "textures/items/tipped_arrow_fireres",
+        "textures/items/tipped_arrow_fireres",
+        "textures/items/tipped_arrow_waterbreathing",
+        "textures/items/tipped_arrow_invisibility",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow_nightvision",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow_weakness",
+        "textures/items/tipped_arrow_poison",
+        "textures/items/tipped_arrow_wither",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow",
+        "textures/items/tipped_arrow_luck"
+      ]
+    },
+    "minecart_furnace": {
+      "textures": "textures/items/minecart_furnace"
+    },
+    "potato": {
+      "textures": "textures/items/potato"
+    },
+    "jungle_door": {
+      "textures": "textures/items/door_jungle"
+    },
+    "leather_horse_armor": {
+      "textures": "textures/items/leather_horse_armor"
+    },
+    "dye_powder": {
+      "textures": [
+        "textures/items/dye_powder_black",
+        "textures/items/dye_powder_red",
+        "textures/items/dye_powder_green",
+        "textures/items/dye_powder_brown",
+        "textures/items/dye_powder_blue",
+        "textures/items/dye_powder_purple",
+        "textures/items/dye_powder_cyan",
+        "textures/items/dye_powder_silver",
+        "textures/items/dye_powder_gray",
+        "textures/items/dye_powder_pink",
+        "textures/items/dye_powder_lime",
+        "textures/items/dye_powder_yellow",
+        "textures/items/dye_powder_light_blue",
+        "textures/items/dye_powder_magenta",
+        "textures/items/dye_powder_orange",
+        "textures/items/dye_powder_white"
+      ]
+    },
+    "blaze_powder": {
+      "textures": "textures/items/blaze_powder"
+    },
+    "iron_ingot": {
+      "textures": "textures/items/iron_ingot"
+    },
+    "skull_zombie": {
+      "textures": "textures/items/skull_zombie"
+    },
+    "leggings": {
+      "textures": [
+        "textures/items/leather_leggings",
+        "textures/items/chainmail_leggings",
+        "textures/items/iron_leggings",
+        "textures/items/gold_leggings",
+        "textures/items/diamond_leggings"
+      ]
+    },
+    "reeds": {
+      "textures": "textures/items/reeds"
+    },
+    "fishing_rod": {
+      "textures": [
+        "textures/items/fishing_rod_uncast",
+        "textures/items/fishing_rod_cast"
+      ]
+    },
+    "spider_eye_fermented": {
+      "textures": "textures/items/spider_eye_fermented"
+    },
+    "record_cat": {
+      "textures": "textures/items/record_cat"
+    },
+    "magma_cream": {
+      "textures": "textures/items/magma_cream"
+    },
+    "record_wait": {
+      "textures": "textures/items/record_wait"
+    },
+    "cooked_fish": {
+      "textures": "textures/items/fish_cooked"
+    },
+    "clock_item": {
+      "textures": "textures/items/clock_item"
+    },
+    "acacia_door": {
+      "textures": "textures/items/door_acacia"
+    },
+    "flint": {
+      "textures": "textures/items/flint"
+    },
+    "apple_golden": {
+      "textures": "textures/items/apple_golden"
+    }
+  }
+}

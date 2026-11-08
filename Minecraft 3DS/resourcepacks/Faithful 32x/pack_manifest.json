@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "The go-to 32x resource pack.",
+      "modules" : [
+         {
+            "type" : "resources",
+            "uuid" : "b2d3e085-0d10-4e83-98c6-755331183ffa",
+            "version" : "1.0.0"
+         }
+      ],
+      "name" : "Faithful 32x",
+      "pack_id" : "bb140b3c-ce16-435e-b0bb-140a4617f6a9",
+      "packs_version" : "1.0.0",
+      "uuid" : "bb140b3c-ce16-435e-b0bb-140a4617f6a9",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "b2d3e085-0d10-4e83-98c6-755331183ffa",
+         "version" : "1.0.0"
+      }
+   ]
+}
