@@ -69,12 +69,19 @@ The Modernization Megapack lives on! Along with legacy content from the communit
         <tr>
             <td>Faithless</td>
             <td>StitchSprites</td>
-            <td>a similar yet overhauled look for minecraft.</td>
+            <td>a similar yet overhauled look for Minecraft.</td>
             <td>Texture pack</td>
             <td>[Faithless](https://modrinth.com/resourcepack/faithless)</td>
         </tr>
         <tr>
-            <td>Cleann'slick GUI</td>
+            <td>Faithful 32x</td>
+            <td>Faithfulpack</td>
+            <td>A faithful 32x upscale of the modern textures.</td>
+            <td>Texture pack</td>
+            <td>[Faithful](https://faithfulpack.net/license)</td>
+        </tr>        
+        <tr>
+            <td>Clean n' slick GUI</td>
             <td>TheRustico36, wyndchyme, & Zexlo</td>
             <td>Adds a darker, cleaner UI and new icons.</td>
             <td>Resource pack</td>
