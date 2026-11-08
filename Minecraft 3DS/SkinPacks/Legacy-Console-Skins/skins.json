@@ -1,0 +1,86 @@
+{
+ "serialize_name": "Legacy-Console-Skins",
+ "localization_name": "Legacy Console Skins",
+ "skins": [
+  {
+   "localization_name": "Prison Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Prison-Steve.3dst"
+  },
+  {
+   "localization_name": "Scottish Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Scottish-Steve.3dst"
+  },
+  {
+   "localization_name": "Boxer Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Boxer-Steve.3dst"
+  },
+  {
+   "localization_name": "Tennis Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Tennis-Steve.3dst"
+  },
+  {
+   "localization_name": "Cyclist Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Cyclist-Steve.3dst"
+  },
+  {
+   "localization_name": "Athlete Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Athlete-Steve.3dst"
+  },
+  {
+   "localization_name": "Tuxedo Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Tuxedo-Steve.3dst"
+  },
+  {
+   "localization_name": "Mojang Steve",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Mojang-Steve.3dst"
+  },
+  {
+   "localization_name": "Prison-Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Prison-Alex.3dst"
+  },
+  {
+   "localization_name": "Scottish Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Scottish-Alex.3dst"
+  },
+  {
+   "localization_name": "Boxer Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Boxer-Alex.3dst"
+  },
+  {
+   "localization_name": "Tennis Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Tennis-Alex.3dst"
+  },
+  {
+   "localization_name": "Cyclist Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Cyclist-Alex.3dst"
+  },
+  {
+   "localization_name": "Athlete Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Athlete-Alex.3dst"
+  },
+  {
+   "localization_name": "Tuxedo Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Tuxedo-Alex.3dst"
+  },
+  {
+   "localization_name": "Mojang Alex",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Mojang-Alex.3dst"
+  }
+ ]
+}

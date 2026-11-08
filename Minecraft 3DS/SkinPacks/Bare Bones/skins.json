@@ -1,0 +1,60 @@
+{
+  "serialize_name": "Bare Bones",
+  "localization_name": "Bare Bones",
+  "skins": [
+    {
+      "localization_name": "Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve.3dst",
+      "type": "free"
+    },    
+    {
+      "localization_name": "Alex",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "alex.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ari",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ari.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kai",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kai.3dst",
+      "type": "free"
+    },    
+    {
+      "localization_name": "Noor",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Noor.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sunny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sunny.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zuri",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zuri.3dst",
+      "type": "free"
+    }, 
+    {
+      "localization_name": "Efi",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Efi.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "Makena",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Makena.3dst",
+      "type": "free"
+    }                          
+  ]
+}

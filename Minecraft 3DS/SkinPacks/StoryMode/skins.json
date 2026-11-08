@@ -1,0 +1,168 @@
+{
+  "serialize_name": "StoryMode",
+  "localization_name": "skinpack.StoryMode",
+  "skins": [
+    {
+      "localization_name": "skin.StoryMode.JesseF",
+      "geometry": "geometry.StoryMode.JesseF",
+      "texture": "JesseF.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseFA",
+      "geometry": "geometry.StoryMode.JesseFA",
+      "texture": "JesseFA.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseFB",
+      "geometry": "geometry.StoryMode.JesseFB",
+      "texture": "JesseFB.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseM",
+      "geometry": "geometry.StoryMode.JesseM",
+      "texture": "JesseM.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseMA",
+      "geometry": "geometry.StoryMode.JesseMA",
+      "texture": "JesseMA.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseMB",
+      "geometry": "geometry.StoryMode.JesseMB",
+      "texture": "JesseMB.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseFArmored",
+      "geometry": "geometry.StoryMode.JesseFArmored",
+      "texture": "JesseFArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseFAArmored",
+      "geometry": "geometry.StoryMode.JesseFAArmored",
+      "texture": "JesseFAArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseFBArmored",
+      "geometry": "geometry.StoryMode.JesseFBArmored",
+      "texture": "JesseFBArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseMArmored",
+      "geometry": "geometry.StoryMode.JesseMArmored",
+      "texture": "JesseMArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseMAArmored",
+      "geometry": "geometry.StoryMode.JesseMAArmored",
+      "texture": "JesseMAArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.JesseMBArmored",
+      "geometry": "geometry.StoryMode.JesseMBArmored",
+      "texture": "JesseMBArmored.3dst",
+      "type": "free"
+    },                 
+    {
+      "localization_name": "skin.StoryMode.Axel",
+      "geometry": "geometry.StoryMode.Axel",
+      "texture": "Axel.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.AxelArmored",
+      "geometry": "geometry.StoryMode.AxelArmored",
+      "texture": "AxelArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Ellegaard",
+      "geometry": "geometry.StoryMode.Ellegaard",
+      "texture": "Ellegaard.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.EllegaardArmored",
+      "geometry": "geometry.StoryMode.EllegaardArmored",
+      "texture": "EllegaardArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Gabriel",
+      "geometry": "geometry.StoryMode.Gabriel",
+      "texture": "Gabriel.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Ivor",
+      "geometry": "geometry.StoryMode.Ivor",
+      "texture": "Ivor.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Lukas",
+      "geometry": "geometry.StoryMode.Lukas",
+      "texture": "Lukas.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Magnus",
+      "geometry": "geometry.StoryMode.Magnus",
+      "texture": "Magnus.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.MagnusArmored",
+      "geometry": "geometry.StoryMode.MagnusArmored",
+      "texture": "MagnusArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.olivia",
+      "geometry": "geometry.StoryMode.Olivia",
+      "texture": "olivia.3dst",
+      "type": "free"
+    },    
+    {
+      "localization_name": "skin.StoryMode.OliviaArmored",
+      "geometry": "geometry.StoryMode.OliviaArmored",
+      "texture": "OliviaArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Petra",
+      "geometry": "geometry.StoryMode.Petra",
+      "texture": "Petra.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.PetraArmored",
+      "geometry": "geometry.StoryMode.PetraArmored",
+      "texture": "PetraArmored.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.Soren",
+      "geometry": "geometry.StoryMode.Soren",
+      "texture": "Soren.3dst",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin.StoryMode.SorenArmored",
+      "geometry": "geometry.StoryMode.SorenArmored",
+      "texture": "SorenArmored.3dst",
+      "type": "free"
+    }
+  ]
+}

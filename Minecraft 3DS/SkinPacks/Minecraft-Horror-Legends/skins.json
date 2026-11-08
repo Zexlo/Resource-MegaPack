@@ -1,0 +1,26 @@
+{
+ "serialize_name": "Minecraft-Horror-Legends",
+ "localization_name": "Minecraft Horror Legends",
+ "skins": [
+  {
+   "localization_name": "Herobrine",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Herobrine.3dst"
+  },
+  {
+   "localization_name": "Villainbrine",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Villainbrine.3dst"
+  },
+  {
+   "localization_name": "Entity 303",
+   "geometry": "geometry.humanoid.custom",
+   "texture": "Entity-303.3dst"
+  },
+  {
+   "localization_name": "Null",
+   "geometry": "geometry.humanoid.customSlim",
+   "texture": "Null.3dst"
+  }
+ ]
+}
