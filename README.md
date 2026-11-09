@@ -10,7 +10,7 @@ The Modernization Megapack lives on! Along with legacy content from the communit
 ## Installation
 1. Download and extract the latest release or source code.zip onto your PC.
 2. Run the 1.10 (also known as numc3d) update/mod at least once before installation; this will create the necessesary directories and folders.
-3. Move the extracted Behaviorpacks, resourcepacks and Skinpacks folders from the extracted release or source code.zip into the folder named <b>Minecraft 3DS</b> on the root of your console's SD card
+3. Move the extracted folder named <b>Minecraft 3DS</b> into the root of your console's SD card
 4. Once the files and folders have been moved you can access the content via their respective menus in-game
 
 ## Included Packs
