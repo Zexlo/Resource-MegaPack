@@ -71,7 +71,7 @@ The Modernization Megapack lives on! Along with legacy content from the communit
             <td>Faithfulpack</td>
             <td>A faithful 32x upscale of the modern textures.</td>
             <td>Texture pack</td>
-            <td>[Faithful](https://faithfulpack.net/license)</td>
+            <td>https://faithfulpack.net/license</td>
         </tr>        
         <tr>
             <td>Clean n' slick GUI</td>
@@ -125,7 +125,7 @@ The Modernization Megapack lives on! Along with legacy content from the communit
     </tbody>
 </table>
 
-<b>Pack compiled and maintained by The MegaPack Authors.</b>
+<b>Pack compiled and maintained by Zexlo.</b>
  
 </details>
 
