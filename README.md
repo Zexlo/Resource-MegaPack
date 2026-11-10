@@ -46,32 +46,25 @@ The Modernization Megapack lives on! Along with legacy content from the communit
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Alpha Textures</td>
+            <td>BETA Textures</td>
             <td>Mojang</td>
-            <td>The textures from Alpha development of Minecraft: java edition</td>
-            <td>Texture pack</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>Classic Textures</td>
-            <td>Mojang</td>
-            <td>The Classic Textures from all release versions of Minecraft pre-1.14.</td>
+            <td>The old school look and feel of Minecraft!</td>
             <td>Texture pack</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>Bare Bones</td>
             <td>RobotPants</td>
-            <td>Minecraft with the style of the trailers</td>
+            <td>Minecraft with the style of the trailers.</td>
             <td>Texture Pack</td>
-            <td>[Bare Bones](https://modrinth.com/resourcepack/bare-bones)</td>
+            <td>https://modrinth.com/resourcepack/bare-bones</td>
         </tr>
         <tr>
             <td>Faithless</td>
             <td>StitchSprites</td>
             <td>a similar yet overhauled look for Minecraft.</td>
             <td>Texture pack</td>
-            <td>[Faithless](https://modrinth.com/resourcepack/faithless)</td>
+            <td>https://modrinth.com/resourcepack/faithless</td>
         </tr>
         <tr>
             <td>Faithful 32x</td>
@@ -92,14 +85,14 @@ The Modernization Megapack lives on! Along with legacy content from the communit
             <td>Wyndchyme</td>
             <td>Adds Frutiger Aero themed GUI.</td>
             <td>Resource pack</td>
-            <td>[Aero GUI](https://github.com/wyndchyme/mc3ds-aero)</td>
+            <td>https://github.com/wyndchyme/mc3ds-aero</td>
         </tr>      
         <tr>
             <td>Windows 98 GUI</td>
             <td>Zexlo</td>
             <td>Adds a windows 98 themed GUI.</td>
             <td>Resource pack</td>
-            <td>[MC3DS mods](https://github.com/Zexlo/mc3ds-mods)</td>
+            <td>https://github.com/Zexlo/mc3ds-mods</td>
         </tr>
         <tr>
             <td>Modern Standard Skins</td>
