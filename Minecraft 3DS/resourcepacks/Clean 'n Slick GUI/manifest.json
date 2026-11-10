@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Clean 'n Slick GUI",
+    "description": "A clean, dark GUI (megapack version)",
+    "uuid": "0a220d7f-3074-4e9d-92f7-dd0ad08c5492",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "da7a5d3e-7249-4d70-9ed1-d56d1a3f47df",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
