@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Frutiger Aero GUI",
+    "description": "Adds A Frutiger Aero styled GUI",
+    "uuid": "734cc821-eff3-40bd-8bbf-a9c3780fd620",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3831f100-5b9d-45a7-9e47-edaa2054e12c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

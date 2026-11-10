@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "A nostalgic dark GUI based on Windows 98",
+      "modules" : [
+         {
+            "type" : "resources",
+            "uuid" : "93e3be6d-9cd0-4f1c-a601-a23d01514807",
+            "version" : "1.0.0"
+         }
+      ],
+      "name" : "Windows 98 Dark GUI",
+      "pack_id" : "fc0b2b42-cc52-440a-a6a2-849c48b6d50c",
+      "packs_version" : "1.0.0",
+      "uuid" : "fc0b2b42-cc52-440a-a6a2-849c48b6d50c",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "type" : "resources",
+         "uuid" : "93e3be6d-9cd0-4f1c-a601-a23d01514807",
+         "version" : "1.0.0"
+      }
+   ]
+}

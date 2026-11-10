@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Modernizes various parts\nof the game.",
+      "modules" : [
+         {
+            "type" : "data",
+            "uuid" : "e6554f7d-f100-4720-9f0f-8e0ca6416d0d",
+            "version" : "3.2.1"
+         }
+      ],
+      "name" : "Modernization MegaPack",
+      "pack_id" : "494db987-53c0-4ed4-89e6-26372b8c66e2",
+      "packs_version" : "3.2.1",
+      "uuid" : "494db987-53c0-4ed4-89e6-26372b8c66e2",
+      "version" : [ 3, 2, 1 ]
+   },
+   "modules" : [
+      {
+         "type" : "data",
+         "uuid" : "e6554f7d-f100-4720-9f0f-8e0ca6416d0d",
+         "version" : "3.2.1"
+      }
+   ]
+}

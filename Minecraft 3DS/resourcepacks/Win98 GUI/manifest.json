@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Windows 98 GUI",
+    "description": "A nostalgic GUI based on Windows 98",
+    "uuid": "65ea0be0-61c4-4d20-89d7-bd5ed2fe5922",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d6c05c37-3fcb-4f63-9a59-efb7959d6790",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

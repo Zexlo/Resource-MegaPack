@@ -1,0 +1,53 @@
+{
+  "$body_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$dark_body_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$title_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$light_button_default_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$light_button_hover_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$light_button_pressed_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$light_button_locked_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$dark_button_default_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$dark_button_locked_text_color": [
+    1,
+    1,
+    1
+  ],
+  "$text_shadow_color": [
+    0.25,
+    0.25,
+    0.25,
+    1
+  ]
+}
